@@ -1,4 +1,4 @@
-### Architect and Structural Engineer
+# Architect and Structural Engineer
 
 ## The provided forum posts discuss the dynamic between architects and structural engineers in the construction industry, focusing on the challenges and tensions that can arise in their collaboration. Here's a summary of the key points:
 
